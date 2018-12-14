@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "193854506061",
+    "firebase_url": "https://foods-1b3b5.firebaseio.com",
+    "project_id": "foods-1b3b5",
+    "storage_bucket": "foods-1b3b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193854506061:android:90334260224f4907",
+        "android_client_info": {
+          "package_name": "com.example.andstudio102.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193854506061-4jb86hps5rjfbnb8b8kdfuli4aqla9ih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andstudio102.myapplication",
+            "certificate_hash": "fa25c0366a24d8ef1266fc01d48ad0ff9be7a08e"
+          }
+        },
+        {
+          "client_id": "193854506061-vv8ofrb8n38mf94i2hkggl1dpo12ldps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andstudio102.myapplication",
+            "certificate_hash": "62e0e0f00ad2d76f9a73c3a8fbfcb7e0a98df310"
+          }
+        },
+        {
+          "client_id": "193854506061-tvn6l1fvieu2km2r74oald3ffeope54p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr65n-hcWlSjJt8AwDfVb48ORvjp_zrLk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193854506061-tvn6l1fvieu2km2r74oald3ffeope54p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
