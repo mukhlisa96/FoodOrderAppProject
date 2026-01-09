@@ -1,2 +1,2 @@
-#FoodOrderAppProject
-Description
+# Project Name
+Short project description here.
